@@ -1,8 +1,8 @@
 # Curso Introdutório de Python
 
-### Objetivo
+## Objetivo
 
-### Público Alvo
+## Público Alvo
 
 
 ## License
