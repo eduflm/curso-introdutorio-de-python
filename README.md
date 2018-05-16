@@ -11,6 +11,7 @@ Teste com outras imagens!
 # Curso Introdutório de Python
 
 ## Objetivo
+O curso introdutório de python, têm por objetivo ensinar o básico da linguagem, bem como 
 
 ## Público Alvo
 
