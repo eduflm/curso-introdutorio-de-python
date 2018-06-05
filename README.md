@@ -1,19 +1,4 @@
-<script src="https://use.fontawesome.com/1fba386258.js"></script>
-<div align='center'>
-	<img src='https://raw.githubusercontent.com/grupy-lavras/grupy-lavras-logo/master/capa.jpg' alt='grupy-lavras logo'/>
-    <br/>
-    <span>Grupo de Usuários Python de Lavras e região!</span>
-    <br/><br/>
-	<div>
-        <a href='https://www.facebook.com/grupylavras/' style="text-decoration: none;"><i class="fa fa-facebook-square"></i> /grupylavras</a>
-        <a href='mailto:grupylavras@gmail.com' style="margin: 0 1em 0 1em;text-decoration: none;"><i class="fa fa-envelope"></i> grupylavras@gmail.com</a>
-        <a href='http://grupy-lavras.github.io/' style="text-decoration: none;"><i class="fa fa-link"></i> grupy-lavras.github.io/</a>
-	    <div> 
-	    </div> 
-	</div> 
-	<br/><br/> 
-</div>
-
+![logo_grupy-lavras](https://raw.githubusercontent.com/grupy-lavras/grupy-lavras-logo/master/capa.jpg)
 
 # Curso Introdutório de Python
 
