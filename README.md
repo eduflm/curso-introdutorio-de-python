@@ -16,13 +16,13 @@ Bem como aqueles já familiarizados com programação, e que possuem interesse e
 
 O conteúdo desse curso foi dividido em 6 capítulos.
 
-**Capítulo 1 - Introdução da linguagem:**
+**Capítulo 1 - Introdução da linguagem:** [[ver conteúdo](../ipynb/Capitulo-01.ipynb)]
 - Sobre o python
 - Porque python
 - Filosofia da linguagem
 - Sintaxe
 
-**Capítulo 2 - Básico de Python:**
+**Capítulo 2 - Básico de Python:** [[ver conteúdo](../ipynb/Capitulo-02.ipynb)]
 - Blocos
 - Tipos de dados
 - Expressões aritiméticas
@@ -30,23 +30,23 @@ O conteúdo desse curso foi dividido em 6 capítulos.
 - Manipulação de strings
 - Entrada e saída de dados (I/O)
 
-**Capítlo 3 - Operadores:**
+**Capítlo 3 - Operadores:** [[ver conteúdo](../ipynb/Capitulo-03.ipynb)]
 - Expressões booleanas
 - Operadores de comparação
 - Operadores lógicos
 - Operadores bit-a-bit
 - Operadores Condicionais
 
-**Capítulo 4 - Laços de repetição (loops):**
+**Capítulo 4 - Laços de repetição (loops):** [[ver conteúdo](../ipynb/Capitulo-04.ipynb)]
 - Iterador for
 - Iterador while
 
-**Capítulo 5 - Estrutura de dados:**
+**Capítulo 5 - Estrutura de dados:** [[ver conteúdo](../ipynb/Capitulo-05.ipynb)]
 - Listas
 - Tuplas
 - Dicionários
 
-**Capítulo 6 - Funções:**
+**Capítulo 6 - Funções:** [[ver conteúdo](../ipynb/Capitulo-06.ipynb)]
 - Estrutura de uma função
 - Chamada de um função
 - Parâmentros e argumentos
