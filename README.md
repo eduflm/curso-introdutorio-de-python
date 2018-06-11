@@ -70,6 +70,6 @@ O conteúdo desse curso foi dividido em 6 capítulos.
 
 ## License
 
-<img style="width: 13em;" src='https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png' title="Creative Commons License"/>
+![creativecommons](./images/license.png)
 
 [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/) &bullet; Copyright (C) 2018 [Grupy Lavras](https://www.facebook.com/grupylavras/).
