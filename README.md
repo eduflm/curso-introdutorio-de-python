@@ -4,7 +4,7 @@
 
 ## Objetivo
 
-O curso introdutório de python, têm por objetivo ensinar o básico da linguagem, assim como a sua sintaxe.
+O curso introdutório de python (ou curso de programação com python), têm por objetivo ensinar os principais conceitos da linguagem.
 Bem como proporcionar o conhecimento base, para que o aluno, possa dar prosseguimento nos estudos.
 
 ## Público Alvo
