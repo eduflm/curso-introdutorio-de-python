@@ -58,8 +58,7 @@ O conteúdo desse curso foi dividido em 6 capítulos.
 
 ### Bibliografia utilizada:
 - [Documentação do Python](https://docs.python.org/3/)
-- [Aprenda Computação com Python](http://www3.ifrn.edu.br/~jurandy/fdp/doc/aprenda-python/index.html)
-- [Aprenda a Pansar como um Ciêntista da Computação](https://panda.ime.usp.br/pensepy/static/pensepy/index.html)
+- [Aprenda a Pensar como um Ciêntista da Computação](https://panda.ime.usp.br/pensepy/static/pensepy/index.html)
 - [Automate the Boring Stuf with Python](http://automatetheboringstuff.com/)
 - [PensePython2e](https://penseallen.github.io/PensePython2e/)
 - [Python para Desenvolvedores 3ed](https://novatec.com.br/livros/python-para-desenvolvedores)
