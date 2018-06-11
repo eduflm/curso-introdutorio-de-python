@@ -10,7 +10,8 @@ Bem como proporcionar o conhecimento base, para que o aluno, possa dar prossegui
 ## Público Alvo
 
 O curso é destinado à todos aqueles quem têm interesse em aprender à programar.
-Bem como aqueles já familiarizados com programação, e que possuem interesse em aprender uma nova linguagem.
+Programadores que querem conhecer o potencial da linguagem Python.
+Gente que quer se divertir programando (porque python é divertido).
 
 ## Ementa
 
@@ -28,7 +29,6 @@ O conteúdo desse curso foi dividido em 6 capítulos.
 - Expressões aritiméticas
 - Nome de variáveis e palavras reservadas
 - Manipulação de strings
-- Entrada e saída de dados (I/O)
 
 **Capítlo 3 - Operadores:** [[ver conteúdo](./ipynb/Capitulo-03.ipynb)]
 - Expressões booleanas
@@ -48,9 +48,12 @@ O conteúdo desse curso foi dividido em 6 capítulos.
 
 **Capítulo 6 - Funções:** [[ver conteúdo](./ipynb/Capitulo-06.ipynb)]
 - Estrutura de uma função
-- Chamada de um função
-- Parâmentros e argumentos
 - Funções que retornam algo
+- Variáveis locais e globais
+- Argumentos (ou parâmetros) de funções
+- Documentação de um função (docstring)
+- Escopo
+
 
 
 ### Bibliografia utilizada:
@@ -66,4 +69,6 @@ O conteúdo desse curso foi dividido em 6 capítulos.
 
 
 ## License
-[MIT](https://opensource.org/licenses/MIT) | [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/) &bullet; Copyright (C) 2018 Grupy Lavras.
+![creativecommons](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png)
+
+[Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/) &bullet; Copyright (C) 2018 [Grupy Lavras](https://www.facebook.com/grupylavras/).
