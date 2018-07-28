@@ -1,74 +1,118 @@
 ![logo_grupy-lavras](https://raw.githubusercontent.com/grupy-lavras/grupy-lavras-logo/master/capa.jpg)
 
-# Curso Introdutório de Python
+# Curso de introdução ao Python
+
+
 
 ## Objetivo
 
-O curso introdutório de python (ou curso de programação com python), têm por objetivo ensinar os principais conceitos da linguagem.
-Bem como proporcionar o conhecimento base, para que o aluno, possa dar prosseguimento nos estudos.
+Com duração aproximada de 3 horas, o curso proporciona um contato inicial com a linguagem Python e com programação de um modo geral. O objetivo é empoderar o aluno pra que ele possa resolver problemas usando código, e continuar seu aprendizado de forma autônoma. 
+
+
+
 
 ## Público Alvo
 
-O curso é destinado à todos aqueles quem têm interesse em aprender à programar.
-Programadores que querem conhecer o potencial da linguagem Python.
-Gente que quer se divertir programando (porque python é divertido).
+Pra quem esse curso foi feito?
+- Pra quem não tem nenhum conhecimento relacionado e quer aprender a programar
+- Pra quem já programou em outra linguagem e quer conhecer Python
+- Pra quem quer se divertir programando (porque Python é divertido!)
 
-## Ementa
+Para quem domina os conceitos básicos e quer ir direto pra tópicos mais avançados, 
+uma segunda parte do curso está em preparação. 
 
-O conteúdo desse curso foi dividido em 6 capítulos.
 
-**Capítulo 1 - Introdução da linguagem:** [[ver conteúdo](./ipynb/Capitulo-01.ipynb)]
-- Sobre o python
-- Porque python
-- Filosofia da linguagem
+
+## Índice
+
+**1. Introdução** 
+
+- Porque Python?
+
+- Um pouco de contexto
+
+- Mecanismos internos
+
+  
+
+**2. Representando dados**
+
+- Tipos de dados
+
+- Variáveis
+
+- Operadores
+
+- Bônus: Casting
+
+  
+
+**3. Escrevendo código**
+
 - Sintaxe
 
-**Capítulo 2 - Básico de Python:** [[ver conteúdo](./ipynb/Capitulo-02.ipynb)]
+- Expressões
+
 - Blocos
-- Tipos de dados
-- Expressões aritiméticas
-- Nome de variáveis e palavras reservadas
-- Manipulação de strings
 
-**Capítlo 3 - Operadores:** [[ver conteúdo](./ipynb/Capitulo-03.ipynb)]
-- Expressões booleanas
-- Operadores de comparação
-- Operadores lógicos
-- Operadores bit-a-bit
-- Operadores Condicionais
+- Controle de fluxo
 
-**Capítulo 4 - Laços de repetição (loops):** [[ver conteúdo](./ipynb/Capitulo-04.ipynb)]
-- Iterador for
-- Iterador while
+- _Atividade 1_
 
-**Capítulo 5 - Estrutura de dados:** [[ver conteúdo](./ipynb/Capitulo-05.ipynb)]
+
+
+**4. Repetições**
+
+- while
+
+- for
+
+- Bônus: range()
+
+- Bônus: enum()
+
+  
+
+**5. Sequências**
+
 - Listas
+
 - Tuplas
+
+- Strings
+
+- _Atividade 2_
+
+
+
+**6. Estruturas de dados**
+
+- Sets
+
 - Dicionários
 
-**Capítulo 6 - Funções:** [[ver conteúdo](./ipynb/Capitulo-06.ipynb)]
-- Estrutura de uma função
-- Funções que retornam algo
-- Variáveis locais e globais
-- Argumentos (ou parâmetros) de funções
-- Documentação de um função (docstring)
+  
+
+**7. Funções**
+
+- Funções embutidas (built-in)
+
+- Declaração
+
 - Escopo
 
+- Docstrings
+
+- _Atividade 3_
 
 
-### Bibliografia utilizada:
+
+### Bibliografia
+
 - [Documentação do Python](https://docs.python.org/3/)
-- [Aprenda a Pensar como um Ciêntista da Computação](https://panda.ime.usp.br/pensepy/static/pensepy/index.html)
-- [Automate the Boring Stuf with Python](http://automatetheboringstuff.com/)
-- [PensePython2e](https://penseallen.github.io/PensePython2e/)
-- [Python para Desenvolvedores 3ed](https://novatec.com.br/livros/python-para-desenvolvedores)
-- [Python Cookbook 3rd](https://novatec.com.br/livros/python-cookbook)
-- [Introduction to Python](https://notebooks.azure.com/eric/libraries)
-- [Python Course](https://developers.google.com/edu/python/)
+- ...
 
-
-## License
-
+## Licença
 ![creativecommons](./images/license.png)
 
 [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/) &bullet; Copyright (C) 2018 [Grupy Lavras](https://www.facebook.com/grupylavras/).
