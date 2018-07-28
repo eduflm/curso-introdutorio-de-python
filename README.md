@@ -31,7 +31,7 @@ uma segunda parte do curso está em preparação.
 - Tipos de dados
 - Variáveis
 - Operadores
-- Bônus: Casting
+- _Bônus:_ Casting
 
 **3. Escrevendo código** [ver conteúdo](./3_Escrevendo_codigo.md)
 - Sintaxe
@@ -43,8 +43,8 @@ uma segunda parte do curso está em preparação.
 **4. Repetições** [ver conteúdo](./4_Repeticoes.md)
 - while
 - for
-- Bônus: range()
-- Bônus: enum()
+- _Bônus:_ range()
+- _Bônus:_ enum()
 
 **5. Sequências** [ver conteúdo](./5_Sequencias.md)
 - Listas
