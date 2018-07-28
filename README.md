@@ -52,7 +52,7 @@ uma segunda parte do curso está em preparação.
 - _Atividade 2_
 
 **6. Estruturas de dados**
-- Sets
+- Conjuntos
 - Dicionários
 
 **7. Funções**
