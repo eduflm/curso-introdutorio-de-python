@@ -21,41 +21,42 @@ uma segunda parte do curso está em preparação.
 
 ## Índice
 
-**1. Introdução** 
+**1. Introdução** [ver conteúdo](./1_Introducao.md)
+
 - Porque Python?
 - Um pouco de contexto
 - Mecanismos internos
 
-**2. Representando dados**
+**2. Representando dados** [ver conteúdo](./2_Representando_dados.md)
 - Tipos de dados
 - Variáveis
 - Operadores
 - Bônus: Casting
 
-**3. Escrevendo código**
+**3. Escrevendo código** [ver conteúdo](./3_Escrevendo_codigo.md)
 - Sintaxe
 - Expressões
 - Blocos
 - Controle de fluxo
 - _Atividade 1_
 
-**4. Repetições**
+**4. Repetições** [ver conteúdo](./4_Repeticoes.md)
 - while
 - for
 - Bônus: range()
 - Bônus: enum()
 
-**5. Sequências**
+**5. Sequências** [ver conteúdo](./5_Sequencias.md)
 - Listas
 - Tuplas
 - Strings
 - _Atividade 2_
 
-**6. Estruturas de dados**
+**6. Estruturas de dados** [ver conteúdo](./6_Estruturas_de_dados.md)
 - Conjuntos
 - Dicionários
 
-**7. Funções**
+**7. Funções** [ver conteúdo](./7_Funcoes.md)
 - Funções embutidas (built-in)
 - Declaração
 - Escopo
