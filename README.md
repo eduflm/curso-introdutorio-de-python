@@ -26,6 +26,7 @@ uma segunda parte do curso está em preparação.
 - Porque Python?
 - Um pouco de contexto
 - Mecanismos internos
+- *Atividade: conhecendo o IDLE* 
 
 **2. Representando dados** [ver conteúdo](./2_Representando_dados.md)
 - Tipos de dados
@@ -61,7 +62,7 @@ uma segunda parte do curso está em preparação.
 - Declaração
 - Escopo
 - Docstrings
-- _Atividade 3_
+- _Atividade final_
 
 ## Bibliografia
 
