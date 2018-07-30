@@ -2,13 +2,15 @@
 
 ### Porque Python?
 
-**Excepcionalmente bem planejada**, o que faz dela uma linguagem consistente.
-
 **Sintaxe simples e elegante:** simplifica a solução de problemas, facilita o aprendizado e aumenta a produtividade do programador.
+
+**Excepcionalmente bem planejada**, o que faz dela uma linguagem consistente.
 
 **Ampla gama de aplicações**. Uma das linguagem favoritas para web, administração de sistemas, segurança, processamento de dados, inteligência artificial, e claro, scripting.
 
-**Código aberto**, sua licença garante a liberdade de uso e distribuição, mesmo para fins comerciais.
+**Código aberto**, sua licença garante a liberdade de uso e distribuição.
+
+
 
 ### Um pouco de contexto
 
@@ -16,21 +18,29 @@ Criada no final da década de 80 pelo holandês **Guido van Rossum**, na época 
 
 Guido reuniu uma pequena equipe de desenvolvedores e  continuou a trabalhar na linguagem, passando por institutos de pesquisa e empresas até o lançamento da versão 2, em 2000, quando o desenvolvimento passou a ter maior participação da comunidade.
 
-A versão 3 foi lançada em 2008 como uma forma de corrigir falhas de projeto da linguagem, e não é compatível com as versões anteriores.
+A versão 3 foi lançada em 2008 para corrigir falhas de projeto da linguagem, e não é compatível com as versões anteriores.
 
-Atualmente a linguagem é mantida pela **Python Software Foundation**, e se encontra na versão 3.7, enquanto a versão 2 ainda é sendo mantida como legado. 
-
-
-
-### Mecanismos internos
-
-Considera uma linguagem de **altíssimo nível** de abstração (VHLL -- Very High Level Language), ou seja, mais próxima da linguagem humana do que da linguagem da máquina. 
-
-**Orientada a objetos**, com suporte a outros paradigmas.  
-
-...
-
-### *Atividade: Conhecendo o IDLE*
+Atualmente a linguagem é mantida pela **Python Software Foundation** e se encontra na versão 3.7, enquanto alguns recursos ainda são portados para a versão 2, mantida como legado. 
 
 
 
+### *Atividade:* Conhecendo o IDLE
+
+Um interpretador Python é incluso na maioria dos sistemas operacionais que atendem ao padrão POSIX (Linux e OSX). O download da versão mais recente do interpretador pode ser baixado em [python.org/downloads](python.org/downloads). 
+
+O download inclui também um editor de texto chamado IDLE, que usaremos no curso.
+
+Ao abrir o IDLE é exibida uma janela com o que chamamos de shell interativo. Nele, podemos executar um código Python linha a linha, o que é útil para rascunhar programas curtos.
+
+Temos também a opção de criar um novo arquivo (`Arquivo > Novo Arquivo`) e escrever o programa nele. Para executar o arquivo, basta selecionar a opção `Executar > Executar módulo`.
+
+Como um primeiro exercício, crie um novo arquivo no IDLE, digite e execute o programa abaixo (não se preocupe ainda em entender como ele funciona):
+
+```python
+nome = input('Digite seu nome: ')
+print('Olá, ', nome)
+```
+
+
+
+ [Próximo capítulo](./2_Representando_dados.md)
