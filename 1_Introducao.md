@@ -9,10 +9,8 @@
 **Ampla gama de aplicações**. Uma das linguagem favoritas para web, administração de sistemas, segurança, processamento de dados, inteligência artificial, e claro, scripting.
 
 **Código aberto**, sua licença garante a liberdade de uso e distribuição.
-
-
-
-
+  
+  
 ## Um pouco de contexto
 
 Criada no final da década de 80 pelo holandês **Guido van Rossum**, na época pesquisador do CWI, onde permaneceu até pouco depois do lançamento da versão 1.0 da linguagem, em 1994. 
@@ -22,10 +20,8 @@ Guido reuniu uma pequena equipe de desenvolvedores e  continuou a trabalhar na l
 A versão 3 foi lançada em 2008 para corrigir falhas de projeto da linguagem, e não é compatível com as versões anteriores.
 
 Atualmente a linguagem é mantida pela **Python Software Foundation** e se encontra na versão 3.7, enquanto alguns recursos ainda são portados para a versão 2, mantida como legado. 
-
-
-
-
+/
+/
 ## *Atividade:* Conhecendo o IDLE
 
 Um interpretador Python é incluso na maioria dos sistemas operacionais que atendem ao padrão POSIX (Linux e OSX). O download da versão mais recente do interpretador pode ser baixado em [python.org/downloads](python.org/downloads). 
