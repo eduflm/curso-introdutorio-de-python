@@ -1,6 +1,6 @@
 # 1. Introdução 
 
-### Porque Python?
+## Porque Python?
 
 **Sintaxe simples e elegante:** simplifica a solução de problemas, facilita o aprendizado e aumenta a produtividade do programador.
 
@@ -12,7 +12,8 @@
 
 
 
-### Um pouco de contexto
+
+## Um pouco de contexto
 
 Criada no final da década de 80 pelo holandês **Guido van Rossum**, na época pesquisador do CWI, onde permaneceu até pouco depois do lançamento da versão 1.0 da linguagem, em 1994. 
 
@@ -24,7 +25,8 @@ Atualmente a linguagem é mantida pela **Python Software Foundation** e se encon
 
 
 
-### *Atividade:* Conhecendo o IDLE
+
+## *Atividade:* Conhecendo o IDLE
 
 Um interpretador Python é incluso na maioria dos sistemas operacionais que atendem ao padrão POSIX (Linux e OSX). O download da versão mais recente do interpretador pode ser baixado em [python.org/downloads](python.org/downloads). 
 
@@ -40,6 +42,7 @@ Como um primeiro exercício, crie um novo arquivo no IDLE, digite e execute o pr
 nome = input('Digite seu nome: ')
 print('Olá, ', nome)
 ```
+
 
 
 
