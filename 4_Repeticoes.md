@@ -2,5 +2,7 @@
 
 ### while
 ### for
-### Bônus: range()
-### Bônus: enum()
+### *Bônus:* range()
+
+### *Bônus:* enum()
+
