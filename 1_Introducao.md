@@ -1,5 +1,6 @@
 # 1. Introdução 
 <br>
+
 ## Porque Python?
 
 **Sintaxe simples e elegante:** simplifica a solução de problemas, facilita o aprendizado e aumenta a produtividade do programador.
@@ -40,4 +41,5 @@ print('Olá, ', nome)
 ```
 <br>
 <br>
+
  [Próximo capítulo](./2_Representando_dados.md)
