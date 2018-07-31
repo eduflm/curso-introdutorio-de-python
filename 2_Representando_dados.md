@@ -1,4 +1,5 @@
 # 2. Representando dados
+<br>
 
 ## Tipos de dados
 
@@ -14,7 +15,7 @@ Tipos de dados são categorias para esses dados, e cada dado tem exatamente um t
 | bool | Valores lógicos | `True` ou `False` |
 | NoneType | Nenhum tipo | `None` |
 
-
+<br>
 
 ## Variáveis
 
@@ -33,9 +34,9 @@ Pense na variável como uma caixa onde armazenamos algo. Podemos alterar o que e
 
 O nome que damos as variáveis é muito importante, não só para lembrarmos o que guardamos nela, mas também para que outras pessoas possam ler nosso código.
 
-
-
 ![coisas](/Users/Renan/Documents/Github/curso-introdutorio-de-python/images/coisas.jpg)
+
+<br>
 
 ## Operadores
 
@@ -77,9 +78,14 @@ Operadores da álgebra booleana. Usados entre dois valores ou expressões, retor
 | or | OU |
 | not | NÃO |
 
-
+<br>
 
 ## *Bônus:* Casting
 
 
 
+
+
+<br>
+
+[Próximo capítulo](./3_Escrevendo_codigo.md)
