@@ -40,6 +40,5 @@ nome = input('Digite seu nome: ')
 print('Olá, ', nome)
 ```
 <br>
-<br>
 
  [Próximo capítulo](./2_Representando_dados.md)
