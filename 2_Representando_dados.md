@@ -34,7 +34,9 @@ Pense na variável como uma caixa onde armazenamos algo. Podemos alterar o que e
 
 O nome que damos as variáveis é muito importante, não só para lembrarmos o que guardamos nela, mas também para que outras pessoas possam ler nosso código.
 
-![coisas](/Users/Renan/Documents/Github/curso-introdutorio-de-python/images/coisas.jpg)
+
+
+![coisas](./images/coisas.jpg)
 
 <br>
 
@@ -61,8 +63,8 @@ Usados entre dois valores, retornam `True` ou `False` .
 
 | Operador | Operação |
 | --- | --- |
-| < | menor estrito |
-| > | maior estrito |
+| < | menor |
+| > | maior |
 | <= | menor ou igual |
 | >= | maior ou igual |
 | == | equivalente |
