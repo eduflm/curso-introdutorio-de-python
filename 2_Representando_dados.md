@@ -30,9 +30,11 @@ nome = 'José'  # variável do tipo string
 idade = 30     # variável do tipo inteiro
 ```
 
-Pense na variável como uma caixa onde armazenamos algo. Podemos alterar o que está armazenado nela sempre que necesário.
+Pense na variável como uma caixa onde armazenamos algo. Podemos alterar o que está armazenado nela sempre que necessário.
 
 O nome que damos as variáveis é muito importante, não só para lembrarmos o que guardamos nela, mas também para que outras pessoas possam ler nosso código.
+
+
 
 
 
