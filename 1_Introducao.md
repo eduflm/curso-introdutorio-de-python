@@ -3,11 +3,11 @@
 
 ## Porque Python?
 
-**Sintaxe simples e elegante:** simplifica a solução de problemas, facilita o aprendizado e aumenta a produtividade do programador.
+**Sintaxe simples e elegante:** facilita o aprendizado, simplifica a solução de problemas e aumenta a produtividade do programador.
 
 **Excepcionalmente bem planejada**, o que faz dela uma linguagem consistente.
 
-**Ampla gama de aplicações**. Uma das linguagem favoritas para web, administração de sistemas, segurança, processamento de dados, inteligência artificial, e claro, scripting.
+**Ampla gama de aplicações**. Uma das linguagem favoritas para web, redes, segurança, análise e processamento de dados, inteligência artificial, e claro, scripting.
 
 **Código aberto**, sua licença garante a liberdade de uso e distribuição.
 <br>
@@ -23,13 +23,14 @@ A versão 3 foi lançada em 2008 para corrigir falhas de projeto da linguagem, e
 Atualmente a linguagem é mantida pela **Python Software Foundation** e se encontra na versão 3.7, enquanto alguns recursos ainda são portados para a versão 2, mantida como legado. 
 <br>
 <br>
-## *Atividade:* Conhecendo o IDLE
+
+## *Bônus:* Conhecendo o IDLE
 
 Um interpretador Python é incluso na maioria dos sistemas operacionais que atendem ao padrão POSIX (Linux e OSX). O download da versão mais recente do interpretador pode ser baixado em [python.org/downloads](python.org/downloads). 
 
 O download inclui também um editor de texto chamado IDLE, que usaremos no curso.
 
-Ao abrir o IDLE é exibida uma janela com o que chamamos de shell interativo. Nele, podemos executar um código Python linha a linha, o que é útil para rascunhar programas curtos.
+Ao abrir o IDLE é exibida uma janela com o que chamamos de shell interativo. Nele podemos executar um código Python linha a linha, o que é útil para rascunhar programas curtos.
 
 Temos também a opção de criar um novo arquivo (`Arquivo > Novo Arquivo`) e escrever o programa nele. Para executar o arquivo, basta selecionar a opção `Executar > Executar módulo`.
 

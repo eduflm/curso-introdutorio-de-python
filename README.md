@@ -1,12 +1,12 @@
 ![logo_grupy-lavras](https://raw.githubusercontent.com/grupy-lavras/grupy-lavras-logo/master/capa.jpg)
 
 # Curso de introdução ao Python
-
+<br>
 
 ## Objetivo
 
 Com duração aproximada de 3 horas, o curso proporciona um contato inicial com a linguagem Python e com programação de um modo geral. O objetivo é empoderar o aluno pra que ele possa resolver problemas usando código, e continuar seu aprendizado de forma autônoma. 
-
+<br>
 
 ## Público Alvo
 
@@ -17,58 +17,62 @@ Pra quem esse curso foi feito?
 
 Para quem domina os conceitos básicos e quer ir direto pra tópicos mais avançados, 
 uma segunda parte do curso está em preparação. 
-
+<br>
 
 ## Índice
 
 **1. Introdução** [ver conteúdo](./1_Introducao.md)
-
 - Porque Python?
 - Um pouco de contexto
 - Mecanismos internos
-- *Atividade: conhecendo o IDLE* 
+- *Bônus:* Conhecendo o IDLE
 
 **2. Representando dados** [ver conteúdo](./2_Representando_dados.md)
 - Tipos de dados
 - Variáveis
 - Operadores
-- _Bônus:_ Casting
+- _Bônus:_ Conversão de tipos
 
 **3. Escrevendo código** [ver conteúdo](./3_Escrevendo_codigo.md)
 - Sintaxe
 - Expressões
 - Blocos
 - Controle de fluxo
-- _Atividade 1_
+- *Bônus:* Comentários
 
-**4. Repetições** [ver conteúdo](./4_Repeticoes.md)
+**4. _Atividade 1_**  [ver conteúdo](./4_Atividade.md)
+
+**5. Repetições** [ver conteúdo](./5_Repeticoes.md)
 - while
 - for
 - _Bônus:_ range()
-- _Bônus:_ enum()
 
-**5. Sequências** [ver conteúdo](./5_Sequencias.md)
+**6. Sequências** [ver conteúdo](./6_Sequencias.md)
 - Listas
 - Tuplas
 - Strings
-- _Atividade 2_
 
-**6. Estruturas de dados** [ver conteúdo](./6_Estruturas_de_dados.md)
+**7. _Atividade 2_**  [ver conteúdo](./7_Atividade.md)
+
+**8. Estruturas de dados** [ver conteúdo](./8_Estruturas_de_dados.md)
 - Conjuntos
 - Dicionários
 
-**7. Funções** [ver conteúdo](./7_Funcoes.md)
+**9. Funções** [ver conteúdo](./9_Funcoes.md)
 - Funções embutidas (built-in)
 - Declaração
 - Escopo
 - Docstrings
-- _Atividade final_
+
+**10. _Atividade_final_** [ver conteúdo](./10_Atividade_final.md)
+
+<br>
 
 ## Bibliografia
 
 - [Documentação do Python](https://docs.python.org/3/)
 - ...
-
+<br>
 
 ## Licença
 
