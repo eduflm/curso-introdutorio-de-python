@@ -74,7 +74,7 @@ uma segunda parte do curso está em preparação.
 
 - [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
 
-- [Google Python Class](https://youtu.be/tKTZoB2Vjuk)
+- [Google Python Class](https://developers.google.com/edu/python/)
 
 - [History of Python](https://en.wikipedia.org/wiki/History_of_Python)
 
