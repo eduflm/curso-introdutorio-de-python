@@ -65,7 +65,7 @@ Permite a união de duas listas.
 ```python
 [1, 2] + [3, 4]
 ```
-<br>
+
 **Aninhamento**  
 É possível também gerar uma lista de listas, o que é o equivalente a uma matriz em Python.
 
