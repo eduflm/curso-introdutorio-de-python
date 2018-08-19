@@ -39,8 +39,7 @@ set('abracadabra')
 ```
 <br>
 
-**Métodos**
-<br> 
+**Métodos**   
 
 | Método | Resultado |
 | ------ | --------- |
@@ -105,8 +104,7 @@ del dicionario['nova_chave']
 ```
 <br>
 
-**Métodos**
-<br> 
+**Métodos**   
 
 | Método | Resultado |
 | ------ | --------- |
