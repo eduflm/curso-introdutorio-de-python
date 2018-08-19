@@ -1,6 +1,6 @@
 # 6. Sequências
 
-Sequências são estruturas de dados que possuem algumas propriedades em comum. Essencialmente, elas podem são ordenadas e podem ser indexadas. 
+Sequências são estruturas de dados que possuem algumas propriedades em comum. Essencialmente, elas são ordenadas e podem ser indexadas. 
 
 A função `range()` vista anteriormente é na verdade uma sequência. Falaremos agora de outras das principais sequências em Python.
 
@@ -19,6 +19,7 @@ lista = [1, 2, 3]
 ```
 <br>
 **Indexação**
+
 É possível acessar os valores individualmente através da indexação.
 
 ```python
@@ -30,7 +31,9 @@ lista[-1]
 ```
 <br>
 **Fatiamento**
+
 O fatiamento retorna uma sublista a partir do intervalo definido.
+
 ```python
 lista[inicio:fim]   
 ```
@@ -48,6 +51,7 @@ lista[::incremento]
 ```
 <br>
 **Mutabilidade**
+
 A lista é uma sequência *mutável*, o que significa que podemos alterar itens seus individualmente:
 
 ```python
@@ -59,13 +63,17 @@ del lista[1]
 ```
 <br>
 **Concatenação**
+
 Permite a união de duas listas.
+
 ```python
 [1, 2] + [3, 4]
 ```
 <br>
 **Aninhamento**
+
 É possível também gerar uma lista de listas, o que é o equivalente a uma matriz em Python.
+
 ```python
 matriz = [
     [1, 2],
@@ -75,10 +83,12 @@ matriz = [
 <br>
 
 **Cópia**
+
 Um detalhe importante sobre o funcionamento de listas é que, ao copiarmos uma lista, na realidade estamos fazendo uma referência para a lista original. Assim, se alterarmos a lista original, alteramos também a cópia.
 <br>
 
 **Métodos**
+
 Listas suportam também operações especiais que chamamos de *métodos*. Para usar um método, usamos o nome da nossa lista seguido do método e seus parâmetros. 
 
 Abaixo temos uma lista de alguns dos métodos de listas:
@@ -95,6 +105,7 @@ Abaixo temos uma lista de alguns dos métodos de listas:
 | .count(item) | Retorna o número de ocorrências de um item. |
 <br>
 **Iteração**
+
 Como toda sequência, listas podem ser iteradas com o uso de `for`. 
 
 ```python
@@ -114,7 +125,9 @@ for item in reversed(lista)
 <br>
 
 **Pertencimento**
+
 Python possui um operador exlusivo para verificar a existência de um item em listas (e outras estruturas) sem necessidade do uso de iteração.
+
 ```python
 2 in [0, 1, 2, 3]
 ```
@@ -130,6 +143,7 @@ Tuplas são sequências similares a listas, com a principal diferença que seus 
 
 <br>
 **Declaração**
+
 A declaração de tuplas é feita com o uso de parênteses.
 
 ```python
@@ -147,10 +161,12 @@ tupla = 1, 2, 3
 <br>
 
 **Operações**
+
 Tuplas suportam a maioria das operações de listas, como indexação, fatiamento, concatenação, aninhamento, iteração e pertencimento.
 <br>
 
 **Métodos**
+
 Ao contrário das listas, as tuplas não suportam métodos.
 <br>
 
@@ -193,6 +209,7 @@ Abaixo temos uma lista de alguns dos métodos de strings:
 <br>
 
 **Strings multilinha**
+
 São delimitadas por três aspas, e permitem que strings possuam diversas linhas. Regras de indentação são ignoradas no interior das strings multilinha.
 
 ```python
@@ -207,6 +224,7 @@ este é um exemplo de strings multilinha.
 <br>
 
 **Formatação de strings**
+
 É um recurso que permite criar formatos customizados para strings, além de strings compostas usando variáveis, que são úteis quando seu conteúdo é dinâmico.
 
 Para isso usamos marcadores `{}` e o método `.format()`.

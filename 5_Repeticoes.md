@@ -27,7 +27,7 @@ A repetição `for`, por sua vez, é uma repetição *contada*, executando o có
 
 A repetição `for` depende de uma **sequência**, ou seja, uma estrutura que possa ser iterada. A quantidade de vezes que o código será repetido é igual ao número de itens contidos na sequência. Veremos detalhes sobre essas estruturas a seguir.
 
-Por enquanto, usaremos a função a função `range()`. Ela gera uma sequencia de números com o comprimento desejado.
+Por enquanto, usaremos a função `range()`. Ela gera uma sequencia de números com o comprimento desejado.
 
 **Exemplo:**
 
@@ -40,7 +40,7 @@ for numero in range(10):
 Como veremos adiante, podemos iterar qualquer sequência. 
 
 ```python
-# imprime os números de 0 a 9
+# imprime cada um dos caracteres da string
 for char in 'abcdefgh':
     print(char)
 ```
