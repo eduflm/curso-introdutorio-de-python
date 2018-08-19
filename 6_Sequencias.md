@@ -3,10 +3,12 @@
 Sequências são estruturas de dados que possuem algumas propriedades em comum. Essencialmente, elas são ordenadas e podem ser indexadas. 
 
 A função `range()` vista anteriormente é na verdade uma sequência. Falaremos agora de outras das principais sequências em Python.
+<br>
 
 ## Listas
 
 Listas são sequências de valores, que chamamos de itens. Esses itens são geralmente do mesmo tipo. 
+<br>
 
 **Declaração**  
 A declaração é feita com o uso de colchetes, separando os itens por vírgulas.
@@ -18,6 +20,7 @@ lista = []
 lista = [1, 2, 3]
 ```
 <br>
+
 **Indexação**  
 É possível acessar os valores individualmente através da indexação.
 
@@ -29,6 +32,7 @@ O índice pode também ser negativo, acessando a lista a partir do fim.
 lista[-1]
 ```
 <br>
+
 **Fatiamento**  
 O fatiamento retorna uma sublista a partir do intervalo definido.
 
@@ -48,6 +52,7 @@ lista[:fim]
 lista[::incremento]   
 ```
 <br>
+
 **Mutabilidade**  
 A lista é uma sequência *mutável*, o que significa que podemos alterar itens seus individualmente:
 
@@ -59,6 +64,7 @@ Além da alterar um item, podemos também removê-lo.
 del lista[1]         
 ```
 <br>
+
 **Concatenação**  
 Permite a união de duas listas.
 
@@ -66,6 +72,7 @@ Permite a união de duas listas.
 [1, 2] + [3, 4]
 ```
 <br>
+
 **Aninhamento**  
 É possível também gerar uma lista de listas, o que é o equivalente a uma matriz em Python.
 
@@ -97,6 +104,7 @@ Abaixo temos uma lista de alguns dos métodos de listas:
 | .reverse() | Inverte a ordem dos itens. |
 | .count(item) | Retorna o número de ocorrências de um item. |
 <br>
+
 **Iteração**  
 Como toda sequência, listas podem ser iteradas com o uso de `for`. 
 
@@ -131,8 +139,8 @@ Python possui um operador exlusivo para verificar a existência de um item em li
 ## Tuplas
 
 Tuplas são sequências similares a listas, com a principal diferença que seus itens não podem ser alterados individualmente. Por isso, dizemos que são sequências *imutáveis*. 
-
 <br>
+
 **Declaração**  
 A declaração de tuplas é feita com o uso de parênteses.
 
@@ -156,7 +164,6 @@ Tuplas suportam a maioria das operações de listas, como indexação, fatiament
 
 **Métodos**  
 Ao contrário das listas, as tuplas não suportam métodos.
-<br>
 
 As tuplas são úteis quando precisamos que uma sequência  não seja alterada. Por não possuem as mesmas limitações em relação a cópia, são uteis também na passagem de sequências como parâmetros de funções, como veremos mais adiante.
 <br>
