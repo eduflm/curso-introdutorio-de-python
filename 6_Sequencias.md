@@ -88,6 +88,7 @@ matriz = [
 Um detalhe importante sobre o funcionamento de listas é que, ao copiarmos uma lista, na realidade estamos fazendo uma referência para a lista original. Assim, se alterarmos a lista original, alteramos também a cópia.
 <br>
 
+
 **Métodos**  
 Listas suportam também operações especiais que chamamos de *métodos*. Para usar um método, usamos o nome da nossa lista seguido do método e seus parâmetros. 
 
@@ -161,6 +162,7 @@ tupla = 1, 2, 3
 **Operações**  
 Tuplas suportam a maioria das operações de listas, como indexação, fatiamento, concatenação, aninhamento, iteração e pertencimento.
 <br>
+
 
 **Métodos**  
 Ao contrário das listas, as tuplas não suportam métodos.
