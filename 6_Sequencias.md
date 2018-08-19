@@ -8,7 +8,7 @@ A função `range()` vista anteriormente é na verdade uma sequência. Falaremos
 
 Listas são sequências de valores, que chamamos de itens. Esses itens são geralmente do mesmo tipo. 
 
-**Declaração**
+**Declaração**  
 A declaração é feita com o uso de colchetes, separando os itens por vírgulas.
 
 ```python
@@ -18,8 +18,7 @@ lista = []
 lista = [1, 2, 3]
 ```
 <br>
-**Indexação**
-
+**Indexação**  
 É possível acessar os valores individualmente através da indexação.
 
 ```python
@@ -30,8 +29,7 @@ O índice pode também ser negativo, acessando a lista a partir do fim.
 lista[-1]
 ```
 <br>
-**Fatiamento**
-
+**Fatiamento**  
 O fatiamento retorna uma sublista a partir do intervalo definido.
 
 ```python
@@ -50,8 +48,7 @@ lista[:fim]
 lista[::incremento]   
 ```
 <br>
-**Mutabilidade**
-
+**Mutabilidade**  
 A lista é uma sequência *mutável*, o que significa que podemos alterar itens seus individualmente:
 
 ```python
@@ -62,16 +59,14 @@ Além da alterar um item, podemos também removê-lo.
 del lista[1]         
 ```
 <br>
-**Concatenação**
-
+**Concatenação**  
 Permite a união de duas listas.
 
 ```python
 [1, 2] + [3, 4]
 ```
 <br>
-**Aninhamento**
-
+**Aninhamento**  
 É possível também gerar uma lista de listas, o que é o equivalente a uma matriz em Python.
 
 ```python
@@ -82,13 +77,11 @@ matriz = [
 ```
 <br>
 
-**Cópia**
-
+**Cópia**  
 Um detalhe importante sobre o funcionamento de listas é que, ao copiarmos uma lista, na realidade estamos fazendo uma referência para a lista original. Assim, se alterarmos a lista original, alteramos também a cópia.
 <br>
 
-**Métodos**
-
+**Métodos**  
 Listas suportam também operações especiais que chamamos de *métodos*. Para usar um método, usamos o nome da nossa lista seguido do método e seus parâmetros. 
 
 Abaixo temos uma lista de alguns dos métodos de listas:
@@ -104,8 +97,7 @@ Abaixo temos uma lista de alguns dos métodos de listas:
 | .reverse() | Inverte a ordem dos itens. |
 | .count(item) | Retorna o número de ocorrências de um item. |
 <br>
-**Iteração**
-
+**Iteração**  
 Como toda sequência, listas podem ser iteradas com o uso de `for`. 
 
 ```python
@@ -124,8 +116,7 @@ for item in reversed(lista)
 ```
 <br>
 
-**Pertencimento**
-
+**Pertencimento**  
 Python possui um operador exlusivo para verificar a existência de um item em listas (e outras estruturas) sem necessidade do uso de iteração.
 
 ```python
@@ -142,8 +133,7 @@ Python possui um operador exlusivo para verificar a existência de um item em li
 Tuplas são sequências similares a listas, com a principal diferença que seus itens não podem ser alterados individualmente. Por isso, dizemos que são sequências *imutáveis*. 
 
 <br>
-**Declaração**
-
+**Declaração**  
 A declaração de tuplas é feita com o uso de parênteses.
 
 ```python
@@ -160,13 +150,11 @@ tupla = 1, 2, 3
 ```
 <br>
 
-**Operações**
-
+**Operações**  
 Tuplas suportam a maioria das operações de listas, como indexação, fatiamento, concatenação, aninhamento, iteração e pertencimento.
 <br>
 
-**Métodos**
-
+**Métodos**  
 Ao contrário das listas, as tuplas não suportam métodos.
 <br>
 
@@ -180,11 +168,11 @@ Vimos anteriormente que strings são variáveis que representam texto, mas strin
 Assim como as tuplas, strings são sequências *imutáveis*.
 <br>
 
-**Operações**
+**Operações**  
 Strings suportam a maioria das operações das demais sequências, como indexação, fatiamento, concatenação e iteração.
 <br>
 
-**Métodos**
+**Métodos**  
 Abaixo temos uma lista de alguns dos métodos de strings:
 
 | Método | Resultado |
@@ -208,8 +196,7 @@ Abaixo temos uma lista de alguns dos métodos de strings:
 | 'd'.join(lista) | Retorna str com itens separados pelo delimitador |
 <br>
 
-**Strings multilinha**
-
+**Strings multilinha**  
 São delimitadas por três aspas, e permitem que strings possuam diversas linhas. Regras de indentação são ignoradas no interior das strings multilinha.
 
 ```python
@@ -223,8 +210,7 @@ este é um exemplo de strings multilinha.
 ```
 <br>
 
-**Formatação de strings**
-
+**Formatação de strings**  
 É um recurso que permite criar formatos customizados para strings, além de strings compostas usando variáveis, que são úteis quando seu conteúdo é dinâmico.
 
 Para isso usamos marcadores `{}` e o método `.format()`.
@@ -251,7 +237,6 @@ Daremos exemplos de alguns dos usos comuns, mas um estudo detalhado do assunto e
 Quando usamos valores numéricos como parâmetros, eles são automaticamente convertidos em strings.
 
 É importante mencionar também que Python suporta não uma, mas duas sintaxes de formatação, conhecidas como *nova* e *antiga*. A sintaxe nova é preferível e foi introduzida na versão 3, que suporta também a formatação antiga para fins de compatibilidade.
-
 <br>
 
 [Atividade](./7_Atividade.md)
