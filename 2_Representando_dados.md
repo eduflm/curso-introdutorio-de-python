@@ -3,9 +3,9 @@
 
 ## Tipos de dados
 
-Todo programa trabalha com dados, por isso identificar a melhor forma de representar informações é uma etapa importante.
+Identificar a melhor forma de representar uma informação é uma etapa importante na elaboração de um programa.
 
-Tipos de dados são categorias para esses dados, e cada dado tem exatamente um tipo. Em Python, os tipos básicos de dados são:
+Tipos de dados são categorias para essas informações, e cada dado tem exatamente um tipo. Em Python, os tipos básicos de dados são:
 
 | Tipo | Representação | Exemplo |
 | --- | --- | --- |
@@ -21,7 +21,7 @@ Tipos de dados são categorias para esses dados, e cada dado tem exatamente um t
 
 Quando precisamos armazenar e processar dados, é útil dar nomes a estes dados de forma que possamos identificá-los facilmente. 
 
-Em Python, o tipo de dado de um variável é inferido a partir do valor que atribuímos a ela (no que chamamos de *inicialização*), por isso  sempre inicializamos a variável quando a declaramos.
+Em Python, o tipo de dado de um variável é inferido a partir do valor que atribuímos a ela (no que chamamos de *inicialização*), por isso sempre inicializamos a variável quando a declaramos.
 
 **Exemplo de declaração de variáveis:**
 
@@ -40,7 +40,7 @@ O nome que damos as variáveis é muito importante, não só para lembrarmos o q
 
 O nome de uma variável pode conter apenas letras, números e underscores, e deve sempre começar com uma letra. 
 
-Uma última consideração é que Python possui 33 palavras reservadas, que são usadas pela linguagem. São palavras como `True`, `False`, `None`, `is`, `and`, `del` ...
+Uma última consideração sobre nomes é que Python possui 33 palavras reservadas, que são usadas pela linguagem. São palavras como `True`, `False`, `None`, `is`, `and`, `del` ...
 
 Para uma lista completa, basta usar o código:
 
@@ -109,7 +109,6 @@ Podemos converter valores entre diferentes tipos sempre que necessário. Alguns 
 entrada = input('Digite um numero: ') # o valor é armazenado como string 
 numero = int(entrada)                 # salva o valor convertido em int
 ```
-
 <br>
 
 [Próximo capítulo](./3_Escrevendo_codigo.md)
