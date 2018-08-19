@@ -2,7 +2,7 @@
 
 Estruturas de dados são agrupamentos que permitem representar e organizar informações muito além do que seria possível com tipos de dados simples. 
 
-Python possui um poderoso conjunto de estruturas de dados (também conhecidas como *containers*) embutidas na linguagem. Algumas delas foram vistas anteriormente: listas e tuplas são casos especiais de estruturas de dados com caractetísticas em comum. 
+Python possui um poderoso conjunto de estruturas de dados (também conhecidas como *containers*) embutidas na linguagem. Algumas delas foram vistas anteriormente: listas e tuplas são casos especiais de estruturas de dados. 
 
 A seguir veremos outras das principais estruturas da linguagem.
 <br>
@@ -40,6 +40,7 @@ set('abracadabra')
 <br>
 
 **Métodos**
+<br> 
 
 | Método | Resultado |
 | ------ | --------- |
@@ -105,6 +106,7 @@ del dicionario['nova_chave']
 <br>
 
 **Métodos**
+<br> 
 
 | Método | Resultado |
 | ------ | --------- |
