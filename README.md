@@ -64,15 +64,21 @@ uma segunda parte do curso está em preparação.
 - Escopo
 - Docstrings
 
-**10. _Atividade_final_** [ver conteúdo](./10_Atividade_final.md)
+**10. _Atividade_final_** [ver conteúdo](./10_Atividade.md)
 
 <br>
 
 ## Bibliografia
 
-- [Documentação do Python](https://docs.python.org/3/)
-- ...
-<br>
+- [Python 3.7.0 documentation](https://docs.python.org/3/)
+
+- [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
+
+- [Google Python Class](https://youtu.be/tKTZoB2Vjuk)
+
+- [History of Python](https://en.wikipedia.org/wiki/History_of_Python)
+
+  <br>
 
 ## Licença
 
