@@ -17,7 +17,7 @@ lista = []
 ```python
 lista = [1, 2, 3]
 ```
-<br>
+
 **Indexação**  
 É possível acessar os valores individualmente através da indexação.
 
@@ -28,7 +28,7 @@ O índice pode também ser negativo, acessando a lista a partir do fim.
 ```python
 lista[-1]
 ```
-<br>
+
 **Fatiamento**  
 O fatiamento retorna uma sublista a partir do intervalo definido.
 
@@ -47,7 +47,7 @@ lista[:fim]
 ```python
 lista[::incremento]   
 ```
-<br>
+
 **Mutabilidade**  
 A lista é uma sequência *mutável*, o que significa que podemos alterar itens seus individualmente:
 
@@ -58,7 +58,7 @@ Além da alterar um item, podemos também removê-lo.
 ```python    
 del lista[1]         
 ```
-<br>
+
 **Concatenação**  
 Permite a união de duas listas.
 
@@ -75,11 +75,9 @@ matriz = [
     [3, 4]
 ]
 ```
-<br>
 
 **Cópia**  
 Um detalhe importante sobre o funcionamento de listas é que, ao copiarmos uma lista, na realidade estamos fazendo uma referência para a lista original. Assim, se alterarmos a lista original, alteramos também a cópia.
-<br>
 
 **Métodos**  
 Listas suportam também operações especiais que chamamos de *métodos*. Para usar um método, usamos o nome da nossa lista seguido do método e seus parâmetros. 
@@ -96,7 +94,7 @@ Abaixo temos uma lista de alguns dos métodos de listas:
 | .sort() | Ordena a lista. |
 | .reverse() | Inverte a ordem dos itens. |
 | .count(item) | Retorna o número de ocorrências de um item. |
-<br>
+
 **Iteração**  
 Como toda sequência, listas podem ser iteradas com o uso de `for`. 
 
@@ -114,7 +112,6 @@ Outras funções incluem, por exemplo, a iteração em ordem reversa.
 ```python
 for item in reversed(lista)
 ```
-<br>
 
 **Pertencimento**  
 Python possui um operador exlusivo para verificar a existência de um item em listas (e outras estruturas) sem necessidade do uso de iteração.
@@ -126,13 +123,11 @@ Python possui um operador exlusivo para verificar a existência de um item em li
 ```python
 4 not in [0, 1, 2, 3]
 ```
-<br>
 
 ## Tuplas
 
 Tuplas são sequências similares a listas, com a principal diferença que seus itens não podem ser alterados individualmente. Por isso, dizemos que são sequências *imutáveis*. 
 
-<br>
 **Declaração**  
 A declaração de tuplas é feita com o uso de parênteses.
 
@@ -152,25 +147,20 @@ tupla = 1, 2, 3
 
 **Operações**  
 Tuplas suportam a maioria das operações de listas, como indexação, fatiamento, concatenação, aninhamento, iteração e pertencimento.
-<br>
 
 **Métodos**  
 Ao contrário das listas, as tuplas não suportam métodos.
-<br>
 
 As tuplas são úteis quando precisamos que uma sequência  não seja alterada. Por não possuem as mesmas limitações em relação a cópia, são uteis também na passagem de sequências como parâmetros de funções, como veremos mais adiante.
-<br>
 
 ## Strings
 
 Vimos anteriormente que strings são variáveis que representam texto, mas strings são também tratadas como sequências de caracteres. Em Python, não existe diferença de um caractere para uma string.
 
 Assim como as tuplas, strings são sequências *imutáveis*.
-<br>
 
 **Operações**  
 Strings suportam a maioria das operações das demais sequências, como indexação, fatiamento, concatenação e iteração.
-<br>
 
 **Métodos**  
 Abaixo temos uma lista de alguns dos métodos de strings:
@@ -194,7 +184,6 @@ Abaixo temos uma lista de alguns dos métodos de strings:
 | .endswith(sub) | Compara o final da string |
 | .split() | Retorna lista com palavras convertidas em itens |
 | 'd'.join(lista) | Retorna str com itens separados pelo delimitador |
-<br>
 
 **Strings multilinha**  
 São delimitadas por três aspas, e permitem que strings possuam diversas linhas. Regras de indentação são ignoradas no interior das strings multilinha.
@@ -208,7 +197,6 @@ este é um exemplo de strings multilinha.
 
 """)
 ```
-<br>
 
 **Formatação de strings**  
 É um recurso que permite criar formatos customizados para strings, além de strings compostas usando variáveis, que são úteis quando seu conteúdo é dinâmico.
