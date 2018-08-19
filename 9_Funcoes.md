@@ -65,6 +65,7 @@ O código dentro da função não interfere em nada que esteja fora dela, graça
 Podemos ter dentro do *corpo* da função uma variável com nome igual a outra que esteja fora dela, sem que haja conflito, porque elas estão em escopos diferentes.
 
 Esse isolamento é importante para que possamos utilizar uma função mesmo sem conhecer sua implementação, e principalmente sem inteferir no restante do programa.
+
 <br>
 
 **Parâmetros**
@@ -207,5 +208,5 @@ import meu_modulo
 
 <br>
 
-[Atividade](./10_Atividade_.md)
+[Atividade](./10_Atividade.md)
 

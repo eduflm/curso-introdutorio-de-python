@@ -10,6 +10,7 @@ A seguir veremos outras das principais estruturas da linguagem.
 ## Conjuntos (sets)
 
 Conjuntos em Python possuem as mesmas características de seus equivalentes matemáticos: não possuem ordem definida nem elementos duplicados. Também possuem operações como união, interseção e diferença.
+<br>
 
 **Declaração**
 ```python
@@ -39,6 +40,7 @@ set('abracadabra')
 <br>
 
 **Métodos**
+
 | Método | Resultado |
 | ------ | --------- |
 | .add(n) | Adiciona um elemento ao conjunto |
@@ -62,8 +64,6 @@ Alguns desses métodos possuem um operador equivalente:
 | A ^ B | A.symmetric_difference(B) |
 | A < B | A.issubset(B) |
 | A > B | A.issuperset(B) |
-
-
 <br>
 
 ## Dicionários
@@ -71,6 +71,8 @@ Alguns desses métodos possuem um operador equivalente:
 Dicionários são estruturas similares a sequências, porém cada *valor* possui uma chave ao invés de um índice. Cada chave está associada a um único valor, formando o que chamamos de um *par chave-valor*. Chaves podem ser valores numéricos, strings ou qualquer outro tipo *imutável*. 
 
 Assim como conjuntos, dicionários também não possuem uma ordem definida.
+<br>
+
 
 **Declaração**
 
@@ -86,18 +88,24 @@ gato = {'tamanho': 'grande', 'cor': 'cinza'}
 gato['cor']
 ```
 Dicionários usam uma técnica conhecida como *hashing* na associação dos pares, o que otimiza a busca de itens em relação a outras sequências.  
+<br>
+
 
 **Adição**
 ```python
 dicionario['nova_chave'] = 'novo_valor'
 ```
+<br>
+
 
 **Remoção**
 ```python
 del dicionario['nova_chave']
 ```
+<br>
 
 **Métodos**
+
 | Método | Resultado |
 | ------ | --------- |
 | .get(chave) | Retorna o valor associado ou None caso não exista|
@@ -107,6 +115,8 @@ del dicionario['nova_chave']
 | .items() | Retorna uma *visualização* dos pares do dicionário |
 | .keys() | Retorna uma *visualização* das chaves do dicionário |
 | .values() | Retorna uma *visualização* dos valores do dicionário |
+<br>
+
 
 **Iteração**
 Para iterar por um dicionário, o par chave-valor pode ser obtido simultaneamente com o uso do método items().
@@ -115,7 +125,6 @@ knights = {'gallahad': 'the pure', 'robin': 'the brave'}
 for chave, valor in knights.items():
     print(chave, valor)
 ```
-
 <br>
 
-[Próximo capítulo](./9_Funcoes_.md)
+[Próximo capítulo](./9_Funcoes.md)

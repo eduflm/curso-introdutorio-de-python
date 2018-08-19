@@ -6,6 +6,8 @@ Escreve um programa que receba do usuário uma frase e imprima uma string com o 
 
 <br>
 
+
+
 [Próximo capítulo](./8_Estruturas de dados.md)
 
 
