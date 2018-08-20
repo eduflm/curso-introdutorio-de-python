@@ -1,11 +1,12 @@
 ![logo_grupy-lavras](https://raw.githubusercontent.com/grupy-lavras/grupy-lavras-logo/master/capa.jpg)
 
-# Curso de introdução ao Python
+# Curso de introdução a Python
+
 <br>
 
 ## Objetivo
 
-Com duração aproximada de 3 horas, o curso proporciona um contato inicial com a linguagem Python e com programação de um modo geral. O objetivo é empoderar o aluno pra que ele possa resolver problemas usando código, e continuar seu aprendizado de forma autônoma. 
+Com duração aproximada de 3 horas, o curso proporciona um contato inicial com a linguagem Python e com programação de um modo geral. O objetivo é fazer com que o aluno ganhe autonomia para continuar aprendendo e possa resolver problemas usando código. 
 <br>
 
 ## Público Alvo
@@ -63,6 +64,7 @@ uma segunda parte do curso está em preparação.
 - Declaração
 - Escopo
 - Docstrings
+- Módulos
 
 **10. _Atividade_final_** [ver conteúdo](./10_Atividade.md)
 
@@ -74,7 +76,7 @@ uma segunda parte do curso está em preparação.
 
 - [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
 
-- [Google Python Class](https://developers.google.com/edu/python/)
+- [Google's Python Class](https://developers.google.com/edu/python/)
 
 - [History of Python](https://en.wikipedia.org/wiki/History_of_Python)
 

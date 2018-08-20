@@ -1,6 +1,6 @@
 # 5. Repetições
 
-Algumas vezes, precisamos executar um bloco de código mais de uma vez. Para isso usamos o recurso que conhecemos como repetição ou laço,  
+Algumas vezes, precisamos executar um bloco de código mais de uma vez. Para isso usamos o recurso que conhecemos como repetição.
 
 <br>
 

@@ -1,7 +1,5 @@
 # 3. Escrevendo código
 
-Para escrever um programa, precisamos obedecer a algumas regras simples. O conjunto dessas regras é o que chamamos de sintaxe.
-
 Para escrever um texto, precisamos observar o conjunto conjunto de regras da língua portuguesa, que chamamos de sintaxe. De forma semelhante, ao escrever um programa precisamos observar a sintaxe do Python,  para que ele seja interpretado corretamente. Do contrário o interpretador nos retornará uma mensagem de erro.
 
 <br>

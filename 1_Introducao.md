@@ -1,4 +1,5 @@
-# 1. Introdução 
+# 1. Introdução
+
 <br>
 
 ## Porque Python?
@@ -30,6 +31,12 @@ Um interpretador Python é incluso na maioria dos sistemas operacionais que aten
 
 O download inclui também um editor de texto chamado IDLE, que usaremos no curso.
 
+Para abrir o IDLE, digite no seu terminal:
+
+```
+idle3
+```
+
 Ao abrir o IDLE é exibida uma janela com o que chamamos de shell interativo. Nele podemos executar um código Python linha a linha, o que é útil para rascunhar programas curtos.
 
 Temos também a opção de criar um novo arquivo (`Arquivo > Novo Arquivo`) e escrever o programa nele. Para executar o arquivo, basta selecionar a opção `Executar > Executar módulo`.
@@ -38,7 +45,7 @@ Como um primeiro exercício, crie um novo arquivo no IDLE, digite e execute o pr
 
 ```python
 nome = input('Digite seu nome: ')
-print('Olá, ', nome)
+print('Olá, ' + nome)
 ```
 <br>
 

@@ -60,8 +60,6 @@ ola()
 
 **Escopo**
 
-O código dentro da função não interfere em nada que esteja fora dela, graças ao que chamamos de *escopo* da função. 
-
 Podemos ter dentro do *corpo* da função uma variável com nome igual a outra que esteja fora dela, sem que haja conflito, porque elas estão em escopos diferentes.
 
 Esse isolamento é importante para que possamos utilizar uma função mesmo sem conhecer sua implementação, e principalmente sem inteferir no restante do programa.

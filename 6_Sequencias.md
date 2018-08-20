@@ -86,6 +86,7 @@ matriz = [
 
 **Cópia**  
 Um detalhe importante sobre o funcionamento de listas é que, ao copiarmos uma lista, na realidade estamos fazendo uma referência para a lista original. Assim, se alterarmos a lista original, alteramos também a cópia.
+
 <br>
 
 
@@ -99,8 +100,10 @@ Abaixo temos uma lista de alguns dos métodos de listas:
 | .index(item) | Retorna o índice de um item. |
 | .append(item) | Insere um item do final da lista. |
 | .insert(pos, item) | Insere um item na posição indicada. |
-| .remove(item) | Remove a primeira ocorreência do item. |
+| .append(seq) | Insere os item da sequência do fim da lista. |
+| .remove(item) | Remove a primeira ocorrência do item. |
 | .pop(pos) | Retorna e remove um item da lista. |
+| .copy() | Retorna uma cópia da lista |
 | .sort() | Ordena a lista. |
 | .reverse() | Inverte a ordem dos itens. |
 | .count(item) | Retorna o número de ocorrências de um item. |
@@ -114,7 +117,7 @@ for item in lista
 ```
 No exemplo, a variável `item` assumirá o valor de um novo item da lista a cada iteração.
 <br>
-Podemos também usar a função `enumerate()` para obter simultâneamente os valores e índices dos itens quando necessário.
+Podemos também usar a função `enumerate()` para obter simultâneamente os índices e valores dos itens quando necessário.
 ```python
 for item, valor in enumerate(lista) 
 ```
@@ -172,7 +175,7 @@ As tuplas são úteis quando precisamos que uma sequência  não seja alterada. 
 
 ## Strings
 
-Vimos anteriormente que strings são variáveis que representam texto, mas strings são também tratadas como sequências de caracteres. Em Python, não existe diferença de um caractere para uma string.
+Vimos anteriormente que strings são um tipo de dado que representa texto, mas strings são também tratadas como sequências de caracteres. Em Python, não existe diferença de um caractere para uma string.
 
 Assim como as tuplas, strings são sequências *imutáveis*.
 <br>

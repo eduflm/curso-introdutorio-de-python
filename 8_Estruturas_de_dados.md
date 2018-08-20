@@ -44,13 +44,13 @@ set('abracadabra')
 | Método | Resultado |
 | ------ | --------- |
 | .add(n) | Adiciona um elemento ao conjunto |
-| .union(cj) | Retorna um conjunto com os elementos de ambos |
-| .intersection(cj) | Retorna conjunto com elementos comuns a ambos |
-| .difference(cj) | Retorna a conjunto com a diferença entre ambos |
-| .symmetric_difference(cj) | Retorna conjunto com elementos não comuns |
-| .isdisjoint(cj) | Retorna True se a interseção é vazia |
-| .issubset(cj) | Retorna True se um conjunto está contido no outro |
-| .issuperset(cj) | Retorna True se um conjunto contém no outro |
+| .union(conj) | Retorna um conjunto com os elementos de ambos |
+| .intersection(conj) | Retorna conjunto com elementos comuns a ambos |
+| .difference(conj) | Retorna conjunto com a diferença entre ambos |
+| .symmetric_difference(conj) | Retorna conjunto com elementos não comuns |
+| .isdisjoint(conj) | Retorna True se a interseção é vazia |
+| .issubset(conj) | Retorna True se um conjunto está contido no outro |
+| .issuperset(conj) | Retorna True se um conjunto contém o outro |
 | .copy() | Retorna uma cópia do conjunto |
 | len() | Retorna o número de elementos do conjunto (cardinalidade) |
 
@@ -72,7 +72,6 @@ Dicionários são estruturas similares a sequências, porém cada *valor* possui
 
 Assim como conjuntos, dicionários também não possuem uma ordem definida.
 <br>
-
 
 **Declaração**
 
@@ -117,9 +116,11 @@ del dicionario['nova_chave']
 | .values() | Retorna uma *visualização* dos valores do dicionário |
 <br>
 
-
-**Iteração**
+**Iteração**  
 Para iterar por um dicionário, o par chave-valor pode ser obtido simultaneamente com o uso do método items().
+
+TODO: melhorar exemplo
+
 ```python
 knights = {'gallahad': 'the pure', 'robin': 'the brave'}
 for chave, valor in knights.items():

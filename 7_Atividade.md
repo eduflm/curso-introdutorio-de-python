@@ -2,7 +2,7 @@
 
 *Tempo previsto: 10 minutos*
 
-Escreve um programa que receba do usuário uma frase e imprima uma string com o comprimento de cada palavra, separados por espaços.    
+Escreva um programa que receba do usuário uma frase e imprima uma string com o comprimento de cada palavra, separados por espaços.  
 
 
 
