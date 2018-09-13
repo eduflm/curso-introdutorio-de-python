@@ -34,7 +34,7 @@ A execução do programa pelo interpretador é feita linha a linha, de cima para
 
 A seguir veremos recursos que permitem esse controle.
 
-##Blocos
+## Blocos
 
 Blocos são agrupamentos de linhas de código, e são essenciais para o controle de fluxo. 
 
@@ -43,13 +43,12 @@ Em Python, blocos são delimitados pela indentação. Sempre que um bloco é ini
 Cada nível de indentação é geralmente representado por 4 espaços ou um *tab*.
 
 ```Python
-numero = input('Digite um número: ')
-if (numero == 3)
-    print('O número é 3!')
-else
-    print('O número não é 3.')
+numero = int(input('Digite um número: '))
+if numero % 2 == 0 :
+    print('O número é par!')
+else:
+    print('O número é impar')
 ```
-TODO: melhorar exemplo
 <br>
 
 ## Expressões condicionais
