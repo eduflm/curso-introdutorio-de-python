@@ -68,11 +68,13 @@ Uma condicional é composta de uma palavra chave, uma expressão a ser avaliada 
 
 Alguns exemplos do uso de condicionais:
 
-TODO: exemplos e diagramas de blocos
-
 ```Python
-if contador > limite_tempo:
-    print('Tempo esgotado!')
+if numero > 0:
+    print('Número positivo!')
+elif numero < 0:
+    print('Número negativo!')
+else:
+    print("O número é zero")
 ```
 
 
@@ -102,6 +104,11 @@ aprendendo_python = True    # Mas podem estar na mesma linha do código
 # sempre usando a mesma sintaxe.
 #
 # E podem ter vários parágrafos quando necessário!
+
+''' E nem sempre é necessário colocar
+o simbolo de comentário em todas as linhas
+podemos fazer um comentário multilinhas utilziando
+três aspas simples no início e no final do comentário'''
 ```
 
 <br>
