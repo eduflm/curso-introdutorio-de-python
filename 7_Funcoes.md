@@ -1,4 +1,4 @@
-# 9. Funções
+# 7. Funções
 
 Uma função é um pequeno programa que realiza uma ação específica.
 
@@ -206,5 +206,5 @@ import meu_modulo
 
 <br>
 
-[Atividade](./10_Atividade.md)
+[Classes](./8_Classes.md)
 

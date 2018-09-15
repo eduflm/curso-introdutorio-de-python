@@ -1,4 +1,4 @@
-# 6. Sequências
+# 5. Sequências
 
 Sequências são estruturas de dados que possuem algumas propriedades em comum. Essencialmente, elas são ordenadas e podem ser indexadas. 
 
@@ -251,4 +251,4 @@ Quando usamos valores numéricos como parâmetros, eles são automaticamente con
 É importante mencionar também que Python suporta não uma, mas duas sintaxes de formatação, conhecidas como *nova* e *antiga*. A sintaxe nova é preferível e foi introduzida na versão 3, que suporta também a formatação antiga para fins de compatibilidade.
 <br>
 
-[Atividade](./7_Atividade.md)
+[Estruturas de Dados](./6_Estruturas_de_dados.md)

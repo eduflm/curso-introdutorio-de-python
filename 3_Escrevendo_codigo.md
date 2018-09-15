@@ -113,5 +113,5 @@ três aspas simples no início e no final do comentário'''
 
 <br>
 
-[Atividade](./4_Atividade.md)
+[Repetições](./4_Repeticoes.md)
 

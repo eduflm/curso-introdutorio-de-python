@@ -1,4 +1,4 @@
-# 8. Estruturas de dados
+# 6. Estruturas de dados
 
 Estruturas de dados são agrupamentos que permitem representar e organizar informações muito além do que seria possível com tipos de dados simples. 
 
@@ -128,4 +128,4 @@ for chave, valor in knights.items():
 ```
 <br>
 
-[Próximo capítulo](./9_Funcoes.md)
+[Funções](./7_Funcoes.md)

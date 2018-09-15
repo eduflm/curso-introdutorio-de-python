@@ -111,4 +111,4 @@ numero = int(entrada)                 # salva o valor convertido em int
 ```
 <br>
 
-[Próximo capítulo](./3_Escrevendo_codigo.md)
+[Escrevendo código](./3_Escrevendo_codigo.md)

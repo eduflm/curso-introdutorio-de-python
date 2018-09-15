@@ -1,4 +1,4 @@
-# 11. Classes
+# 8. Classes
 
 Uma classe define uma estrutura de dados que ira possuir atributos e métodos. A classe adiciona a possiblidade de programar orientado a objetos em Python e facilitam a modoluridade e abstração da complexidade.
 

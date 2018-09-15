@@ -1,4 +1,4 @@
-# 5. Repetições
+# 4. Repetições
 
 Algumas vezes, precisamos executar um bloco de código mais de uma vez. Para isso usamos o recurso que conhecemos como repetição.
 
@@ -63,4 +63,4 @@ range(10, 0, -1) # gera sequência de 10 a 1
 
 <br>
 
-[Próximo capítulo](./6_Sequencias.md)
+[Sequencias](./5_Sequencias.md)

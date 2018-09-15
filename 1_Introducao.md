@@ -49,4 +49,4 @@ print('Olá, ' + nome)
 ```
 <br>
 
-[Próximo capítulo](./2_Representando_dados.md)
+[Representando dados](./2_Representando_dados.md)
